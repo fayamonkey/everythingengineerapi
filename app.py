@@ -39,11 +39,8 @@ with sidebar_col:
     
     st.sidebar.markdown("""
     ### About
-    This app creates complete CustomGPT instructions for you. Example Prompts:
-        A customGPT that helps me create the perfect business plan for my startup.
-                        or
-        A customGPT that creates a comprehensive project plan for my daily tasks.
-    """)
+    EXAMPLE PROMPT: A customGPT that helps me to create a business plan for my business ideas.
+            """)
     
     # Results section
     st.sidebar.markdown("### Your CustomGPT Results")
